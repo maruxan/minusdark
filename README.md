@@ -1,1 +1,1 @@
-# darkplus.nvim
+# minusdark.nvim

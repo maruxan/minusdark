@@ -1,6 +1,3 @@
--- Copyright (c) 2020-2021 shadmansaleh
--- MIT license, see LICENSE for more details.
--- Credit: Zoltan Dalmadi(lightline)
 -- LuaFormatter off
 local colors = {
   blue   = '#569cd6',
@@ -11,8 +8,6 @@ local colors = {
   orange = '#ce9178',
   fg     = '#d4d4d4',
   bg     = '#007acc',
-  -- bg     = '#68217a',
-  -- bg     = '#252525',
   gray1  = '#5c6370',
   gray2  = '#2c323d',
   gray3  = '#3e4452',
